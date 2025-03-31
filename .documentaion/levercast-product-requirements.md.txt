@@ -7,6 +7,7 @@ Levercast is a web application designed for busy entrepreneurs to effortlessly c
 - **Entrepreneurs and Business Owners:** Individuals who need a quick, streamlined way to capture ideas and publish them across social media.
 - **Content Creators and Marketers:** Professionals looking to generate tailored content for various social channels.
 
+Datta
 ## Functional Requirements
 - **Content Input:**
   - A text input box for quickly dumping ideas or content.
